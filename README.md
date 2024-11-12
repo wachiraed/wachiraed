@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edward Wachira!
+- 👋 Hi, I’m Edward Wachira Mwangi!
 - 💞️ I’m looking to collaborate on .Net and Rust and ML projects
 - 😄 Pronouns: He/Him
 
